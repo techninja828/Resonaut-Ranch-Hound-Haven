@@ -1,0 +1,17 @@
+# The Grand Design
+
+- **Model:** Foster-first with light on-site capacity (10 kennel equivalents), modular runs, enrichment fields, and a quiet decompression zone. Behavior plans standardized and versioned.
+- **Network:** MOUs with county shelter(s), vet clinic(s), trainer collective, and transport partners. Clear SLAs on intake criteria, data sharing, and outcomes.
+- **Data:** Open schema for dogs, behaviors, fosters, outcomes, donations, and content. Weekly public KPI snapshot.
+- **Content Engine:** Daily micro-videos (rehab, training wins, myth-busting), weekly case-study, monthly impact report.
+- **Funding:** Monthly donors + local corporate sponsors + micro-grants; productized offerings ("sponsor a foster cohort", "name-a-kennel").
+- **Replication:** Everything documented in this repo; license content under CC BY so others can adapt with attribution.
+
+## Facility Phasing
+1) **Phase 0 (Now):** Foster-first; rented training yard; mobile crates/kennels; volunteer transports.  
+2) **Phase 1:** 10 modular runs, storage, quarantine pen, weather cover, camera monitoring, enrichment course.  
+3) **Phase 2:** Treatment room, food storage, laundry, multipurpose training barn, RV hook-up/office.  
+4) **Phase 3:** Additional acreage, trail enrichment loop, education pavilion.
+
+## Risk & Safety Principles
+- Two-gate/airlock entries; color-coded handling; muzzle-conditioning normalised; bite-scale logging; incident RCA.
