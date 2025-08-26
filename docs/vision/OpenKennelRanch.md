@@ -2,6 +2,11 @@
 
 A concept for adapting a working ranch layout to a low-stress dog sanctuary on the Oregon coast. The design favors movement, ventilation, and modular infrastructure that can be built in phases.
 
+## Therapy Dog Integration Center
+- Core offering pairing trained ranch dogs with neurodiverse individuals.
+- Sensory-friendly classrooms and observation spaces for families and clinicians.
+- Curriculum coordinated with regional autism organizations for smooth transitions.
+
 ## Barn Repurposing
 - Convert an existing barn into a multipurpose training hall and treatment center.
 - Preserve open floor plan for flexible runs and enrichment setups.
