@@ -20,4 +20,7 @@
 - **Veterinary partners:** County vet hospital, mobile triage units, university extension clinics.
 - **Local services:** County animal control, emergency management office, fire department, and water utility.
 
+## Land Stewardship
+- Follow [Land Stewardship guidelines](LandStewardship.md) for manure composting, stormwater controls, and wildlife-friendly features.
+
 All facilities must comply with state and county permitting, health, and charitable solicitation requirements noted in the [Nonprofit Roadmap](../legal/NonprofitRoadmap.md).
