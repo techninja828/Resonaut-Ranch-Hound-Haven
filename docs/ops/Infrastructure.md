@@ -22,5 +22,7 @@
 
 ## Land Stewardship
 - Follow [Land Stewardship guidelines](LandStewardship.md) for manure composting, stormwater controls, and wildlife-friendly features.
+ 
+See the [Disaster Evacuation Plan](DisasterEvacuation.md) for wildfire, tsunami, and flood evacuation routes and staging areas.
 
 All facilities must comply with state and county permitting, health, and charitable solicitation requirements noted in the [Nonprofit Roadmap](../legal/NonprofitRoadmap.md).
