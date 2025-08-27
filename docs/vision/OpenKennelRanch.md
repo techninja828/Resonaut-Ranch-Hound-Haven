@@ -44,3 +44,5 @@ A concept for adapting a working ranch layout to a low-stress dog sanctuary on t
 - Observe setbacks from property lines, wetlands, and tsunami inundation zones.
 - Visitor cabins must comply with transient lodging and septic regulations.
 
+### Land Stewardship
+- Apply [Land Stewardship practices](../ops/LandStewardship.md) for composting, stormwater buffering, and wildlife habitat protection.
