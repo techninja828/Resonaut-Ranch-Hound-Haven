@@ -12,6 +12,12 @@
 - Communication drills using visual supports and AAC devices.
 - Family practice visits transitioning to community outings.
 
+## Technology Integration & Privacy
+- Sensor-assisted progress tracking through wearable heart-rate bands or pressure-sensitive leashes, with readings piped into Snowflake for long-term analysis.
+- Remote session options via secure video conferencing and companion apps so families can participate from home or school.
+- Integration with AAC tools like Proloquo2Go, Tobii Dynavox eye-gaze devices, or LAMP Words for Life; usage logs can upload to Snowflake to tailor interventions.
+- Privacy safeguards including explicit consent for data collection, anonymized IDs within Snowflake, and opt-out controls for neurodivergent participants.
+
 ## Staffing Needs
 - Program director overseeing curriculum and clinical standards.
 - Certified therapy dog trainer to pair and prep dogs for sessions.
