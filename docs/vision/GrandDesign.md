@@ -17,3 +17,10 @@ Use the [Site Selection Checklist](../ops/SiteSelectionChecklist.md) to validate
 
 ## Risk & Safety Principles
 - Two-gate/airlock entries; color-coded handling; muzzle-conditioning normalised; bite-scale logging; incident RCA.
+
+## Sensor Network & AI Analytics
+- **Sensors:** GPS collars track location and activity; environmental monitors log temperature, humidity, and air quality; health wearables capture heart rate, gait, and stress signals.
+- **Edge Processing:** On-site gateways aggregate device feeds, filter noise, trigger local alerts, and compress data before uplink.
+- **Data Flow to Snowflake:** Gateways push streams via Snowpipe or staged batch files; devices fall back to cached uploads when offline, keeping the open schema consistent.
+- **AI Analytics:** Snowflake-hosted models analyze behavior patterns, health anomalies, and environmental trends to guide care decisions.
+- **Sponsorship & Licensing:** Snowflake is a potential sponsor; confirm nonprofit licensing or partnership terms before production use.
