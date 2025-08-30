@@ -24,3 +24,11 @@ Use the [Site Selection Checklist](../ops/SiteSelectionChecklist.md) to validate
 - **Data Flow to Snowflake:** Gateways push streams via Snowpipe or staged batch files; devices fall back to cached uploads when offline, keeping the open schema consistent.
 - **AI Analytics:** Snowflake-hosted models analyze behavior patterns, health anomalies, and environmental trends to guide care decisions.
 - **Sponsorship & Licensing:** Snowflake is a potential sponsor; confirm nonprofit licensing or partnership terms before production use.
+
+## Remote Engagement & Live Interaction
+- **Camera Grid:** PoE-powered PTZ and wide-angle units cover kennels, enrichment fields, and medical areas.
+- **Streaming:** Edge encoders push RTSP/WebRTC feeds to a central server; viewers receive adaptive bitrate streams.
+- **Two-Way Interaction:** Web interface couples live video with chat and staff-approved command channel (treat dispenser, light cues).
+- **Authentication & Authorization:** OAuth2 login with role-based access (viewer/volunteer/staff); commands are audited, rate-limited, and require staff override for physical actions.
+
+See [Remote Interaction User Stories](RemoteInteractionUserStories.md) for UX scenarios.
